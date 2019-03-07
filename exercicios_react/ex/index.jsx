@@ -15,5 +15,3 @@ ReactDOM.render(
         <Field initialValue='Teste' />
     </Provider>  
 ,document.getElementById('app'))
-
-
